@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.graphene.core": "https://github.com/LudiKha/Graphene.git?path=/src",
+    "com.graphene.core": "https://github.com/LudiKha/Graphene.git?path=/src",    
     "com.graphene.components": "https://github.com/LudiKha/Graphene-Components.git?path=/src",
     "com.unity.collab-proxy": "1.3.9",
     "com.unity.ide.rider": "2.0.7",
