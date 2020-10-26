@@ -2,6 +2,8 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
+using Graphene.ViewModel;
+
 namespace Graphene.Demo
 {
   [CreateAssetMenu(menuName = "UI/Forms/AudioSettingsForm")]

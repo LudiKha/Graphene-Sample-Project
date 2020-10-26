@@ -3,6 +3,7 @@ using Graphene.Demo;
 using System;
 using UnityEngine;
 using UnityEngine.UIElements;
+using Graphene.ViewModel;
 
 public class DemoCubeViewModel : MonoBehaviour, IModel
 {

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UIElements;
+using Graphene.ViewModel;
 
 namespace Graphene.Demo
 {
